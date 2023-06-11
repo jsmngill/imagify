@@ -295,6 +295,10 @@ ul li:hover {
     width: 45vw;
     padding: 10px;
 }
+.send-button{
+  height: 50px;
+  width: 50px;
+}
 @media only screen and (max-width: 900px){
   .testimonials{
     height: max-content;
